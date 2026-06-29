@@ -12,7 +12,7 @@ It displays:
 
 ## Screenshot
 
-Screenshots are not included yet. Run the app locally to preview the menu bar item and popover.
+![Codex Limits Menu Bar screenshot](assets/screenshot.png)
 
 ## Requirements
 
